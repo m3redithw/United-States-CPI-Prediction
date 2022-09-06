@@ -17,10 +17,14 @@ Sep 2022
 
 The United States' inflation is at its highest in nearly 40 years, as the COVID-19 pandemic has caused both supply and demand-side shocks, with a disrupted supply chain, unprecedented levels of government fiscal stimulus, shifts in consumer spending, a decline in labor force participation, and presistent business uncertainty.
 
-## :house:   Project Goals
+***
+
+## 🏁   Project Goals
 ▪️ Identify economic trends in the United States from 1957 to 2022.
 
 ▪️ Construct an ML model that predict **CPI** ('all_items_value') for future recent years.
+
+***
 
 ## :memo:   Initial Questions
 ▪️ Is there trend or seasonality in `all_items_value` we can find?
@@ -28,6 +32,8 @@ The United States' inflation is at its highest in nearly 40 years, as the COVID-
 ▪️ Does CPI follow a specific pattern each month over the years?
 
 ▪️ Do `food_values`, `energy_value`, `apparel_value`, `gasoline_value`, `medical value`, `transportation value` have distinct trends or do they all follow the same pattern?
+
+***
 
 ## :open_file_folder:   Data Dictionary
 **Variable** |    **Value**    | **Meaning**
@@ -42,8 +48,12 @@ The United States' inflation is at its highest in nearly 40 years, as the COVID-
 *Medical Value* | Float | Medical CPI in U.S. city average, seasonally adjusted
 *Transportation Value*| Float | Transportation CPI in U.S. city average, seasonally adjusted
 
+***
+
 ## 📊   Data Context
 We have monthly data from 1957 to 2022 CPI for All Urban Consumers. 3 **datetime** objects and 14 **numerical** variables.
+
+***
 
 ## :placard:   Project Plan / Process
 #### :one:   Data Acquisition
@@ -92,12 +102,16 @@ We have monthly data from 1957 to 2022 CPI for All Urban Consumers. 3 **datetime
      ```
 </details>
 
+***
+
 #### :three:   Exploratory Analysis
 - Ask questions to find trend or seasonality in `all_items_value`
 
 - Resample by month and explore commonality in values over time
 
 - Using visualizations to better understand the relationship between features
+
+***
 
 #### :four:    Modeling Evaluation
 - Using **Last Observed Value** to make prediction and calculate model's RMSE on validate dataset
@@ -110,14 +124,18 @@ We have monthly data from 1957 to 2022 CPI for All Urban Consumers. 3 **datetime
 
 - Pick the model with lowest RMSE and evaluate on test dataset
 
-## :repeat:   Steps to Reproduce
+***
+
+## 	♻️   Steps to Reproduce
 - [x] You will to go to BLS Beta Labs to acquire the data
 - [x] Clone my repo (including the **prepare.py**) 
 - [x] Libraries used are pandas, numpy, datetime, math, matplotlib, seaborn, statsmodels, sklearn
 - [x] Follow instructions in [eda](eda.ipynb) workbook and README file
 - [x] Good to run report :smile_cat:
 
-## :key:    Conclusion
+***
+
+## 🔆   Conclusion
 
 ▪️ The machine learning model: Holt's Linear Trend is expected to predict housing prices within variance of **35** on average on future unseen data
 
