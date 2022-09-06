@@ -1,3 +1,5 @@
+![inflation](https://user-images.githubusercontent.com/105242871/188526013-4313105f-5b16-4330-814d-2f1499d2bc45.png)
+
 # United States Inflation Prediction
 by [**Meredith Wang**](https://www.linkedin.com/in/m3redithw/)
 
@@ -11,8 +13,6 @@ Sep 2022
 <a href="#"><img alt="math" src="https://img.shields.io/badge/math-adcbe3.svg?logo=plotly&logoColor=white"></a>
 <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-4b86b4.svg?logo=scikitlearn&logoColor=white"></a>
 <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-1560bd.svg?logo=scipy&logoColor=white"></a>
-
-![logo](https://user-images.githubusercontent.com/105242871/180632056-229e205f-d3a5-4e04-a26d-d403f50a585f.jpg)
 
 
 The United States' inflation is at its highest in nearly 40 years, as the COVID-19 pandemic has caused both supply and demand-side shocks, with a disrupted supply chain, unprecedented levels of government fiscal stimulus, shifts in consumer spending, a decline in labor force participation, and presistent business uncertainty.
