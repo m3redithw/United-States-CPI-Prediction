@@ -5,14 +5,14 @@ by [**Meredith Wang**](https://www.linkedin.com/in/m3redithw/)
 
 Sep 2022
 
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-013243.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-2a4d69.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-8DF9C1.svg?logo=matplotlib&logoColor=white"></a>
-<a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-65A9A8.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="math" src="https://img.shields.io/badge/math-adcbe3.svg?logo=plotly&logoColor=white"></a>
-<a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-4b86b4.svg?logo=scikitlearn&logoColor=white"></a>
-<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-1560bd.svg?logo=scipy&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-e6b47e.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-c48d57.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-9e8763.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-85775f.svg?logo=matplotlib&logoColor=white"></a>
+<a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-9e7163.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="math" src="https://img.shields.io/badge/math-85695f.svg?logo=math&logoColor=white"></a>
+<a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-3b2b1f.svg?logo=scikitlearn&logoColor=white"></a>
+<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-3b211f.svg?logo=scipy&logoColor=white"></a>
 
 
 The United States' inflation is at its highest in nearly 40 years, as the COVID-19 pandemic has caused both supply and demand-side shocks, with a disrupted supply chain, unprecedented levels of government fiscal stimulus, shifts in consumer spending, a decline in labor force participation, and presistent business uncertainty.
