@@ -109,7 +109,8 @@ We have monthly data from 1957 to 2022 CPI for All Urban Consumers. 3 **datetime
 
 - Using visualizations to better understand the relationship between features
 
-![All Items CPI Over Time](https://user-images.githubusercontent.com/105242871/188527275-efe6343b-6f33-40d7-8208-5485d56ae2a8.png)
+![bar_race_demo](https://user-images.githubusercontent.com/105242871/195744739-66094621-0394-42b1-ba9f-cd04f5e4a04e.gif)
+
 
 #### :four:    Modeling Evaluation
 - Using **Last Observed Value** to make prediction and calculate model's RMSE on validate dataset
