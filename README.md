@@ -109,7 +109,7 @@ We have monthly data from 1957 to 2022 CPI for All Urban Consumers. 3 **datetime
 
 - Using visualizations to better understand the relationship between features
 
-![bar_race_demo](https://user-images.githubusercontent.com/105242871/195744739-66094621-0394-42b1-ba9f-cd04f5e4a04e.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/105242871/196052387-d981cf5f-0d78-4c88-9d0f-97b4745be971.gif)
 
 
 #### :four:    Modeling Evaluation
